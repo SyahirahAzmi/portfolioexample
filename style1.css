@@ -1,0 +1,40 @@
+body {
+    font-family: system-ui, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.experience {
+    margin-bottom: 2rem;
+}
+
+.date {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.btn-linkedin,
+.btn-mot {
+    display: inline-block;
+    padding: 10px 18px;
+    margin-right: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    background: #0077b5;
+    color: white;
+}
+
+.btn-mot {
+    background: #1f2937;
+}
